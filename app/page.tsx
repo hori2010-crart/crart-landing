@@ -35,11 +35,11 @@ export default function App() {
       <section className="relative pt-48 pb-32 px-6 max-w-6xl mx-auto flex flex-col items-center text-center overflow-hidden">
         <div className="absolute top-20 left-0 w-64 h-64 bg-[#e5decb]/30 rounded-full blur-3xl -z-10 animate-pulse"></div>
         
-        <div className="inline-flex items-center gap-2 px-4 py-1.5 mb-8 bg-[#f4f0e6] border border-[#e1dcd3] rounded-full">
-          <p className="text-[11px] font-bold tracking-widest text-[#a67c52] uppercase tracking-[0.2em]">Digital Craftsmanship & Local Network</p>
+        <div className="inline-flex items-center gap-2 px-4 py-1.5 mb-8 bg-[#f4f0e6] border border-[#e1dcd3] rounded-full shadow-sm">
+          <p className="text-[11px] font-bold tracking-widest text-[#a67c52] uppercase">Digital Craftsmanship & Local Network</p>
         </div>
 
-        <h2 className="text-5xl md:text-8xl font-extrabold tracking-tighter mb-10 leading-[0.9] text-[#1a1918]">
+        <h2 className="text-6xl md:text-8xl font-extrabold tracking-tighter mb-10 leading-[0.9] text-[#1a1918]">
           나무의 본질, <br />
           <span className="font-light italic text-[#a67c52]">데이터로 완성하다</span>
         </h2>
